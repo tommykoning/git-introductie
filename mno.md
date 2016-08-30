@@ -1,15 +1,11 @@
 #Over Maarten...
 **Voornaam**: Maarten
 
-
 **Achternaam**: Nouwen
-
 
 **Woonplaats**: Hendrik Ido Ambacht
 
-
 **Email**: [mnouwen@davinci.nl](mnouwen@davinci.nl)
-
 
 **Tel**: 06-28814841
 
